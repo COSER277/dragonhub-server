@@ -1,0 +1,15 @@
+{
+    "development": {
+        "HOST": "localhost",
+        "PORT": 3333,
+        "SECRET":"dragonhub1234567890zxcvbnmasdfghjklqwertyuiop."
+    },
+    "test": {
+        "HOST": "localhost",
+        "PORT": 3333
+    },
+    "production": {
+        "HOST": "",
+        "PORT": 3333
+    }
+}
